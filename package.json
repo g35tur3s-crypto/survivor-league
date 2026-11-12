@@ -1,0 +1,16 @@
+{
+  "name": "survivor-league",
+  "version": "1.0.0",
+  "description": "NFL survivor league: logins, weekly picks with a kickoff lock, live spreads, automatic scoring.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.13.1"
+  }
+}

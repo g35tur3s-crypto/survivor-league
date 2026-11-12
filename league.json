@@ -1,0 +1,2660 @@
+{
+ "league": "Tbone's 12th Survivor",
+ "season": 2026,
+ "players": [
+  {
+   "name": "AJ S.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Lions",
+     "points": 24
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Broncos",
+     "points": 14
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Cowboys",
+     "points": 4
+    }
+   ]
+  },
+  {
+   "name": "Alex A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Giants",
+     "points": 8
+    },
+    {
+     "week": 2,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Broncos",
+     "points": 14
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Jaguars",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Andrew H.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Steelers",
+     "points": 7
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Andrew T.",
+   "paid": false,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Broncos",
+     "points": -21
+    },
+    {
+     "week": 2,
+     "team": "Chiefs",
+     "points": 3
+    },
+    {
+     "week": 3,
+     "team": "Eagles",
+     "points": -20
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Steelers",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Jets",
+     "points": -3
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Jaguars",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Brandon K.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Colts",
+     "points": -6
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Rams",
+     "points": 7
+    }
+   ]
+  },
+  {
+   "name": "Bridger A.",
+   "paid": false,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Seahawks",
+     "points": -2
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Texans",
+     "points": 23
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Jets",
+     "points": -3
+    },
+    {
+     "week": 8,
+     "team": "Patriots",
+     "points": 5
+    },
+    {
+     "week": 9,
+     "team": "49ers",
+     "points": 21
+    }
+   ]
+  },
+  {
+   "name": "Carson A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Seahawks",
+     "points": -2
+    },
+    {
+     "week": 4,
+     "team": "Lions",
+     "points": -6
+    },
+    {
+     "week": 5,
+     "team": "Texans",
+     "points": 23
+    },
+    {
+     "week": 6,
+     "team": "Chiefs",
+     "points": 16
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Rams",
+     "points": 7
+    }
+   ]
+  },
+  {
+   "name": "Chandler W.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Patriots",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Texans",
+     "points": -6
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Jaguars",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Charles H.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Bills",
+     "points": 5
+    },
+    {
+     "week": 2,
+     "team": "Ravens",
+     "points": -7
+    },
+    {
+     "week": 3,
+     "team": "Panthers",
+     "points": -3
+    },
+    {
+     "week": 4,
+     "team": "Seahawks",
+     "points": 7
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Patriots",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "49ers",
+     "points": -9
+    },
+    {
+     "week": 8,
+     "team": "Packers",
+     "points": 8
+    },
+    {
+     "week": 9,
+     "team": "Bengals",
+     "points": 17
+    }
+   ]
+  },
+  {
+   "name": "Damien C.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Texans",
+     "points": -6
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Bears",
+     "points": 3
+    }
+   ]
+  },
+  {
+   "name": "Danni L.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Lions",
+     "points": 1
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Jaguars",
+     "points": 2
+    },
+    {
+     "week": 6,
+     "team": "Bills",
+     "points": 3
+    },
+    {
+     "week": 7,
+     "team": "Panthers",
+     "points": -30
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Seahawks",
+     "points": 14
+    }
+   ]
+  },
+  {
+   "name": "David C.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Drew H.",
+   "paid": false,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Raiders",
+     "points": 14
+    },
+    {
+     "week": 2,
+     "team": "Eagles",
+     "points": 4
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "49ers",
+     "points": -9
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Giants",
+     "points": 8
+    }
+   ]
+  },
+  {
+   "name": "Eric A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Broncos",
+     "points": 14
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Texans",
+     "points": 22
+    }
+   ]
+  },
+  {
+   "name": "Frank G.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Steelers",
+     "points": 21
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Garrett H.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Giants",
+     "points": 8
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Seahawks",
+     "points": 7
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Patriots",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Jaguars",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Garry A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Patriots",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Bears",
+     "points": 3
+    }
+   ]
+  },
+  {
+   "name": "Grant S.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Colts",
+     "points": -6
+    },
+    {
+     "week": 7,
+     "team": "Texans",
+     "points": -6
+    },
+    {
+     "week": 8,
+     "team": "Panthers",
+     "points": -8
+    },
+    {
+     "week": 9,
+     "team": "Jaguars",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Jake R.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Panthers",
+     "points": -3
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Chiefs",
+     "points": 16
+    },
+    {
+     "week": 7,
+     "team": "Jets",
+     "points": -3
+    },
+    {
+     "week": 8,
+     "team": "Cowboys",
+     "points": -3
+    },
+    {
+     "week": 9,
+     "team": "Bears",
+     "points": 3
+    }
+   ]
+  },
+  {
+   "name": "Jamie A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chiefs",
+     "points": 21
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Bills",
+     "points": 8
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Jaguars",
+     "points": 2
+    },
+    {
+     "week": 6,
+     "team": "Patriots",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Browns",
+     "points": 3
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Jamisen L.",
+   "paid": false,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Broncos",
+     "points": -21
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Lions",
+     "points": 24
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Browns",
+     "points": 3
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Seahawks",
+     "points": 14
+    }
+   ]
+  },
+  {
+   "name": "Anthony A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Colts",
+     "points": -6
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Jared P.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Texans",
+     "points": -6
+    },
+    {
+     "week": 8,
+     "team": "Cowboys",
+     "points": -3
+    },
+    {
+     "week": 9,
+     "team": "49ers",
+     "points": 21
+    }
+   ]
+  },
+  {
+   "name": "Jordan A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Panthers",
+     "points": -30
+    },
+    {
+     "week": 8,
+     "team": "Patriots",
+     "points": 5
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "John L.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Colts",
+     "points": -6
+    },
+    {
+     "week": 7,
+     "team": "Browns",
+     "points": 3
+    },
+    {
+     "week": 8,
+     "team": "Patriots",
+     "points": 5
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Keith C.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Panthers",
+     "points": -3
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Texans",
+     "points": 23
+    },
+    {
+     "week": 6,
+     "team": "Patriots",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Chiefs",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Kelsey L.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Eagles",
+     "points": 4
+    },
+    {
+     "week": 3,
+     "team": "Bills",
+     "points": 8
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Browns",
+     "points": -5
+    },
+    {
+     "week": 6,
+     "team": "49ers",
+     "points": 6
+    },
+    {
+     "week": 7,
+     "team": "Broncos",
+     "points": 14
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Jaguars",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Kerry H.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Lions",
+     "points": 7
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Jets",
+     "points": -3
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Chiefs",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Kyle B.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Lions",
+     "points": 1
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Panthers",
+     "points": -3
+    },
+    {
+     "week": 4,
+     "team": "Bengals",
+     "points": -5
+    },
+    {
+     "week": 5,
+     "team": "Ravens",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Jaguars",
+     "points": -3
+    },
+    {
+     "week": 7,
+     "team": "49ers",
+     "points": -9
+    },
+    {
+     "week": 8,
+     "team": "Titans",
+     "points": -7
+    },
+    {
+     "week": 9,
+     "team": "Bears",
+     "points": 3
+    }
+   ]
+  },
+  {
+   "name": "Kyle G.",
+   "paid": false,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Bills",
+     "points": 8
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Colts",
+     "points": -6
+    },
+    {
+     "week": 7,
+     "team": "Jets",
+     "points": -3
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Kyle L.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Eagles",
+     "points": 4
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Bills",
+     "points": 3
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Seahawks",
+     "points": 14
+    }
+   ]
+  },
+  {
+   "name": "Lisa H.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "49ers",
+     "points": 6
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Broncos",
+     "points": 6
+    },
+    {
+     "week": 6,
+     "team": "Chiefs",
+     "points": 16
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Seahawks",
+     "points": 14
+    }
+   ]
+  },
+  {
+   "name": "Mahesh K.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Seahawks",
+     "points": -2
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Jaguars",
+     "points": -3
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Chiefs",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Miles B.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Seahawks",
+     "points": -2
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Chiefs",
+     "points": 16
+    },
+    {
+     "week": 7,
+     "team": "Bears",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Jaguars",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Myron S.",
+   "paid": false,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Packers",
+     "points": -21
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Saints",
+     "points": -10
+    },
+    {
+     "week": 6,
+     "team": "Patriots",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Broncos",
+     "points": 14
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Bears",
+     "points": 3
+    }
+   ]
+  },
+  {
+   "name": "Nancy A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Lions",
+     "points": 7
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Texans",
+     "points": -6
+    },
+    {
+     "week": 8,
+     "team": "Bills",
+     "points": 26
+    },
+    {
+     "week": 9,
+     "team": "Chiefs",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Nick A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Raiders",
+     "points": -14
+    },
+    {
+     "week": 8,
+     "team": "Patriots",
+     "points": 5
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Polly H.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Lions",
+     "points": 1
+    },
+    {
+     "week": 2,
+     "team": "Eagles",
+     "points": 4
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Falcons",
+     "points": -7
+    },
+    {
+     "week": 6,
+     "team": "Panthers",
+     "points": 11
+    },
+    {
+     "week": 7,
+     "team": "Steelers",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "49ers",
+     "points": 21
+    }
+   ]
+  },
+  {
+   "name": "Rachel H.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Seahawks",
+     "points": -2
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Patriots",
+     "points": 28
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Jets",
+     "points": -3
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Bears",
+     "points": 3
+    }
+   ]
+  },
+  {
+   "name": "Rian A.",
+   "paid": false,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "Ravens",
+     "points": -7
+    },
+    {
+     "week": 3,
+     "team": "Bills",
+     "points": 8
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Colts",
+     "points": -6
+    },
+    {
+     "week": 7,
+     "team": "Texans",
+     "points": -6
+    },
+    {
+     "week": 8,
+     "team": "Commanders",
+     "points": 17
+    },
+    {
+     "week": 9,
+     "team": "Chiefs",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Ricky A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Panthers",
+     "points": -3
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Broncos",
+     "points": 6
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Cowboys",
+     "points": 17
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Bears",
+     "points": 3
+    }
+   ],
+   "role": "support"
+  },
+  {
+   "name": "Ryan G.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Lions",
+     "points": 1
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Seahawks",
+     "points": -2
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Texans",
+     "points": 23
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Patriots",
+     "points": 5
+    },
+    {
+     "week": 9,
+     "team": "Chiefs",
+     "points": 23
+    }
+   ]
+  },
+  {
+   "name": "Ryan J.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Steelers",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Rams",
+     "points": 14
+    },
+    {
+     "week": 8,
+     "team": "Patriots",
+     "points": 5
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Sam C.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Seahawks",
+     "points": -2
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Patriots",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Broncos",
+     "points": 14
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Rams",
+     "points": 7
+    }
+   ]
+  },
+  {
+   "name": "Saralee A.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Texans",
+     "points": -6
+    },
+    {
+     "week": 8,
+     "team": "Packers",
+     "points": 8
+    },
+    {
+     "week": 9,
+     "team": "Bears",
+     "points": 3
+    }
+   ]
+  },
+  {
+   "name": "Seth F.",
+   "paid": false,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Vikings",
+     "points": 5
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Colts",
+     "points": -6
+    },
+    {
+     "week": 7,
+     "team": "Broncos",
+     "points": 14
+    },
+    {
+     "week": 8,
+     "team": "Patriots",
+     "points": 5
+    },
+    {
+     "week": 9,
+     "team": "Bears",
+     "points": 3
+    }
+   ]
+  },
+  {
+   "name": "Sidney B.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Colts",
+     "points": -6
+    },
+    {
+     "week": 7,
+     "team": "Browns",
+     "points": 3
+    },
+    {
+     "week": 8,
+     "team": "Bears",
+     "points": 17
+    },
+    {
+     "week": 9,
+     "team": "Texans",
+     "points": 22
+    }
+   ]
+  },
+  {
+   "name": "Trae M.",
+   "paid": false,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Steelers",
+     "points": 7
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Seahawks",
+     "points": -2
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Browns",
+     "points": -5
+    },
+    {
+     "week": 6,
+     "team": "49ers",
+     "points": 6
+    },
+    {
+     "week": 7,
+     "team": "Bengals",
+     "points": 22
+    },
+    {
+     "week": 8,
+     "team": "Rams",
+     "points": 15
+    },
+    {
+     "week": 9,
+     "team": "Bears",
+     "points": 3
+    }
+   ]
+  },
+  {
+   "name": "Tyler D.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "Buccaneers",
+     "points": -4
+    },
+    {
+     "week": 3,
+     "team": "Panthers",
+     "points": -3
+    },
+    {
+     "week": 4,
+     "team": "Seahawks",
+     "points": 7
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Chiefs",
+     "points": 16
+    },
+    {
+     "week": 7,
+     "team": "Broncos",
+     "points": 14
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Tyler H.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Jaguars",
+     "points": 24
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Chiefs",
+     "points": 14
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Cowboys",
+     "points": -8
+    },
+    {
+     "week": 6,
+     "team": "Rams",
+     "points": -2
+    },
+    {
+     "week": 7,
+     "team": "Vikings",
+     "points": 6
+    },
+    {
+     "week": 8,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ],
+   "role": "manager"
+  },
+  {
+   "name": "Tyler J.",
+   "paid": true,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Chargers",
+     "points": -12
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Seahawks",
+     "points": -2
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Bengals",
+     "points": 7
+    },
+    {
+     "week": 6,
+     "team": "Patriots",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Texans",
+     "points": -6
+    },
+    {
+     "week": 8,
+     "team": "Jaguars",
+     "points": 35
+    },
+    {
+     "week": 9,
+     "team": "Lions",
+     "points": 10
+    }
+   ]
+  },
+  {
+   "name": "Tyler L.",
+   "paid": false,
+   "picks": [
+    {
+     "week": 1,
+     "team": "Giants",
+     "points": 8
+    },
+    {
+     "week": 2,
+     "team": "49ers",
+     "points": 22
+    },
+    {
+     "week": 3,
+     "team": "Vikings",
+     "points": 7
+    },
+    {
+     "week": 4,
+     "team": "Ravens",
+     "points": 6
+    },
+    {
+     "week": 5,
+     "team": "Broncos",
+     "points": 6
+    },
+    {
+     "week": 6,
+     "team": "Patriots",
+     "points": 7
+    },
+    {
+     "week": 7,
+     "team": "Chiefs",
+     "points": -17
+    },
+    {
+     "week": 8,
+     "team": "Rams",
+     "points": 15
+    },
+    {
+     "week": 9,
+     "team": "Seahawks",
+     "points": 14
+    }
+   ]
+  }
+ ]
+}
